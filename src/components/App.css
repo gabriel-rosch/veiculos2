@@ -1,0 +1,23 @@
+.container {
+  height: 100vh;
+  background-color: darkgray;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.form-left {
+  width: 50%;
+  padding:15px;
+}
+
+.form-rigth {
+  width: 50%;
+  padding:15px;
+}
+
+.form {
+  display: flex;
+}
